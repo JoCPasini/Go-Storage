@@ -7,8 +7,11 @@ require (
 	github.com/stretchr/testify v1.7.0
 )
 
+require github.com/jmespath/go-jmespath v0.4.0 // indirect
+
 require (
 	github.com/DATA-DOG/go-txdb v0.1.5 // indirect
+	github.com/aws/aws-sdk-go v1.42.42
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
